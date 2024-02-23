@@ -11,7 +11,7 @@ This is the first set of boards ordered for personal projects and it contains th
 - [EEPROM Programmer](https://github.com/Tonikiller10000/EEPROM_PROGRAMER)
 - other side testing boards
 
-Kicad projection:
+One of the Kicad projection versions:
 <img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1p1.png"/>
 
 3d Viewed board:
