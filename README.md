@@ -11,13 +11,14 @@ This is the first set of boards ordered for personal projects and it contains th
 - [EEPROM Programmer](https://github.com/Tonikiller10000/EEPROM_PROGRAMER)
 - other side testing boards
 
+Kicad projection:
+<img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1p1.png"/>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1p1.png"/></td>
-    <td><img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1v3.png"/></td>
-    <td><img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1R_F.jpg"/></td>
-  </tr>
- </table>
+3d Viewed board:
+<img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1v3.png"/>
 
+Picture of the arrived board:
+<img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1R_F.jpg"/>
+
+Picture of the assembled boards:
 <img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1s1.jpg"/>
