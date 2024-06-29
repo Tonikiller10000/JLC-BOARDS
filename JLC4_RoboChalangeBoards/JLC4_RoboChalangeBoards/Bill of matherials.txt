@@ -1,0 +1,221 @@
+Bill of matherials
+
+FTDI V2.0:
+-1x USB_Mini-B      Wuerth_65100516121_Horizontal
+-1x 1K Resistor     SMD 1206
+-1x POWER LED       SMD 1206
+-2x 100nF capacitor SMD 1206
+-1x 01x06           2.54mm pin header
+-1x 12MHz Resonator SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm
+-1x CH340G          SOIC127P600X180-16N
+
+FTDI V2.1:
+-1x USB_Mini-B      Wuerth_65100516121_Horizontal
+-3x 1K Resistor     SMD 1206
+-1x POWER LED       SMD 1206
+-2x 100nF capacitor SMD 1206
+-1x 01x06           2.54mm pin header
+-1x 01x05           2.54mm pin header
+-1x 01x04           2.54mm pin header
+-1x 12MHz Resonator SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm
+-1x CH340G 	    SOIC127P600X180-16N
+-2x 100uF capacitor SMD 1210
+-1x AMS1117-3.3     PK(R-PSSO-F3)
+
+Sensor bar:
+-1x 01x10 	    2.54mm horizontal pin header
+-8x 220R Resistor   SMD 1206
+-8x 47K Resistor    SMD 1206
+-8x ITR8307 sensor
+
+LineFollower:
+-2x 100uF capacitor SMD 1210
+-1x 100nF capacitor SMD 0805
+-1x 10K Resistor    SMD 0603
+-1x 1K Resistor     SMD 1206
+-1x Power LED       SMD 2835
+-1x ATmega328P-AU   TQFP32_32A_MCH
+-1x LM78L05_TO92    PK(R-PSSO-F3)
+-1x 20MHz Resonator SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm
+-1x RESET button    SW_PUSH_6mm
+-1x Power switch    SW_CuK_OS102011MA1QN1_SPDT_Angled
+-1x 01x06           2.54mm pin header
+-1x 01x10           2.54mm horizontal pin header
+-2x 01x08           2.54mm pin header
+-1x 01x05           2.54mm pin header
+-2x 01x02           2.54mm horizontal pin header
+-1x 01x02           2.54mm pin header
+-1x 02x03           2.54mm pin header
+
+Battery charger:
+-2x 10uF capacitor  	SMD 0603
+-1x 100nF capacitor 	SMD 0603
+-3x 1K Resistor    	SMD 0603
+-2x 5.1K Resistor   	SMD 0603
+-1x 1.2K Resistor   	SMD 0603
+-1x 100R Resistor   	SMD 0805
+-2x SMD LED         	SMD 0805
+-1x TP4056	    	SOIC127P600X175-9N
+-1x FS8205A         	SOP65P640X120-8N
+-1x DW01A           	SOT95P280X135-6N
+-1x SDPT switch	    	PinHeader_1x03_P2.54mm
+-1x USB_C_PowerOnly_6P  USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal
+-2x 01x01 Power Pin     2.54mm pin header
+
+
+Motor driver with VBC:
+-2x 22uF capacitor  	SMD 0805
+-2x 100nF capacitor  	SMD 0805
+-1x 10uF capacitor 	SMD CP_Elec_4x5.4
+-2x DNP Resistor    	SMD 1206
+-1x 14.7K Resistor    	SMD 1206
+-1x 22uH inductor       L_7.3x7.3_H4.5
+-1x SS34 Diode 		D_SMA
+-1x MT3608		SOT-23-6_Handsoldering
+-1x TB6612FNG	        SSOP-24_5.3x8.2mm_P0.65mm
+-2x 01x08               2.54mm pin header
+
+Motor driver no VBC:
+-2x 100nF capacitor  	SMD 0805
+-1x 10uF capacitor 	SMD CP_Elec_4x5.4
+-1x TB6612FNG	        SSOP-24_5.3x8.2mm_P0.65mm
+-2x 01x08               2.54mm pin header
+
+
+RoboSumo:
+-2x 100uF capacitor SMD 1210
+-1x 100nF capacitor SMD 0805
+-4x 1K Resistor     SMD 0805
+-2x 10K Resistor    SMD 0805
+-1x 1K Resistor     SMD 1206
+-1x 10K Resistor    SMD 0603
+-1x Power LED       SMD 2835
+-1x ATmega328P-AU   TQFP32_32A_MCH
+-1x AMS1117-3.3     PK(R-PSSO-F3)
+-1x 20MHz Resonator SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm
+-1x RESET button    SW_PUSH_6mm
+-1x Dip Switches    SW_DIP_x04
+-1x Power switch    SW_CuK_OS102011MA1QN1_SPDT_Angled
+-2x 01x08           2.54mm pin header
+-1x 01x03           2.54mm pin header
+-1x 01x04           2.54mm pin header
+-2x 01x02           2.54mm horizontal pin header
+-1x 01x02           2.54mm pin header
+-2x 02x03           2.54mm pin header
+-1x 02x04           2.54mm pin header
+
+VL53L0x_Distance sensor:
+-1x 100nF capacitor SMD 0805
+-1x 4.7uF capacitor SMD 0805
+-4x 2K Resistor     SMD 0603
+-1x VL53L0x sensor	
+-1x 01x06           2.54mm horizontal pin header
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-2x USB_Mini-B      Wuerth_65100516121_Horizontal
+-6x 1K Resistor     SMD 1206
+-2x 10K Resistor    SMD 0805
+-2x 10K Resistor    SMD 0603
+-3x 1K Resistor    	SMD 0603
+-2x 5.1K Resistor   	SMD 0603
+-1x 1.2K Resistor   	SMD 0603
+-1x 100R Resistor   	SMD 0805
+-2x DNP Resistor    	SMD 1206
+-1x 14.7K Resistor    	SMD 1206
+-4x 1K Resistor     SMD 0805
+-4x 2K Resistor     SMD 0603
+-8x 220R Resistor   SMD 1206
+-8x 47K Resistor    SMD 1206
+-2x POWER LED       SMD 1206
+-2x Power LED       SMD 2835
+-2x SMD LED         SMD 0805
+-4x 100nF capacitor SMD 1206
+-6x 100uF capacitor SMD 1210
+-7x 100nF capacitor SMD 0805
+-2x 10uF capacitor  SMD 0603
+-2x 22uF capacitor  	SMD 0805
+-1x 100nF capacitor 	SMD 0603
+-2x 10uF capacitor 	SMD CP_Elec_4x5.4
+-1x 4.7uF capacitor SMD 0805
+-4x 01x08           2.54mm pin header
+-4x 01x08           2.54mm pin socket
+-4x 01x06           2.54mm pin header
+-2x 01x05           2.54mm pin header
+-2x 01x04           2.54mm pin header
+-4x 02x03           2.54mm pin header
+-4x 01x02           2.54mm horizontal pin header
+-3x 01x02           2.54mm pin header
+-1x 02x04           2.54mm pin header
+-2x 12MHz Resonator SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm
+-2x 20MHz Resonator SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm
+-2x CH340G          SOIC127P600X180-16N
+-2x AMS1117-3.3     PK(R-PSSO-F3)
+-2x 01x10 	    2.54mm horizontal pin header
+-8x ITR8307 sensor
+-2x ATmega328P-AU   TQFP32_32A_MCH
+-1x LM78L05_TO92    PK(R-PSSO-F3)
+-2x RESET button    SW_PUSH_6mm
+-2x Power switch    SW_CuK_OS102011MA1QN1_SPDT_Angled
+-1x TP4056	    	SOIC127P600X175-9N
+-1x FS8205A         	SOP65P640X120-8N
+-1x DW01A           	SOT95P280X135-6N
+-1x SDPT switch	    	PinHeader_1x03_P2.54mm
+-1x USB_C_PowerOnly_6P  USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal
+-1x 22uH inductor       L_7.3x7.3_H4.5
+-1x SS34 Diode 		D_SMA
+-1x MT3608		SOT-23-6_Handsoldering
+-2x TB6612FNG	        SSOP-24_5.3x8.2mm_P0.65mm
+-1x Dip Switches    SW_DIP_x04
+-1x VL53L0x sensor	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
