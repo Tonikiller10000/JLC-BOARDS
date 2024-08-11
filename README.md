@@ -12,16 +12,16 @@ This is the first set of boards ordered for personal projects and it contains th
 - other side testing boards
 
 One of the Kicad projection versions:
-<img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1p1.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1p1.png"/>
 
 3d Viewed board:
-<img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1v3.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1v3.png"/>
 
 Picture of the arrived board:
-<img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1R_F.jpg"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1R_F.jpg"/>
 
 Picture of the assembled boards:
-<img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1s1.jpg"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1s1.jpg"/>
 
 
 # JLC2
@@ -36,14 +36,14 @@ It has 4 layers and it contains:
 
 The board projection:
 
-<img src="https://github.com/Tonikiller10000/JLC2/blob/main/JLC2_Pictures/J2_4.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_4.png"/>
 
 Board 3D view:
-<img src="https://github.com/Tonikiller10000/JLC2/blob/main/JLC2_Pictures/J2_3.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2_Pictures/J2_3.png"/>
 
 Board views:
-- Sides: https://github.com/Tonikiller10000/JLC2/blob/main/JLC2_Pictures/J2_1.jpg
-- Close: https://github.com/Tonikiller10000/JLC2/blob/main/JLC2_Pictures/J2_2.jpg
+- Sides: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2_Pictures/J2_1.jpg
+- Close: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2_Pictures/J2_2.jpg
 
 
 
@@ -58,17 +58,17 @@ This is the third set of boards ordered for personal projects and contains:
 
 Board 3D view:
 
-<img src="https://github.com/Tonikiller10000/JLC3/blob/main/JLC3_Pictures/j3vv.jpg"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3vv.jpg"/>
 
 
 The board projection:
 
-<img src="https://github.com/Tonikiller10000/JLC3/blob/main/JLC3_Pictures/j3p.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3p.png"/>
 
 
 
-- Another 3D view of the board: https://github.com/Tonikiller10000/JLC3/blob/main/JLC3_Pictures/j3v.png
-- Board final result: https://github.com/Tonikiller10000/JLC3/blob/main/JLC3_Pictures/j3d.jpg
+- Another 3D view of the board: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3v.png
+- Board final result: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3d.jpg
 
 
 # JLC4
