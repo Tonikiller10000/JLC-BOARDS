@@ -26,10 +26,7 @@ This is the first set of boards ordered for personal projects and it contains th
 It has 4 layers and it contains:  
 - [Keystroke Injection Tool](https://github.com/Tonikiller10000/KeystrokeInjectionTool)
 - [USB Mass Storage Device](https://github.com/Tonikiller10000/USB-MassStorageDevice)
-- an board for testing some charging IC\`s
-- other side testing boards
-
-
+- testing board for some charging IC\`s
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_4.png" height = 200 width= 200  ></td>  
@@ -42,7 +39,6 @@ It has 4 layers and it contains:
 
 
 
-
 # JLC3
 ### Description:
 This is the third set of boards ordered for personal projects and contains:  
@@ -50,12 +46,16 @@ This is the third set of boards ordered for personal projects and contains:
 - [EEPROM Programmer_V2.0](https://github.com/Tonikiller10000/EEPROM_PROGRAMER)
 - [8BitProcessor_DisplayRegister](https://github.com/Tonikiller10000/8BitProcessor/tree/main/DisplayRegister)
 - [8BitProcessor_ClkModule](https://github.com/Tonikiller10000/8BitProcessor/tree/main/ClkPulseGenerator)
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3vv.jpg" height = 200 width= 200  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3p.png" height = 200 width= 200  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3v.png"  height = 200 width= 200  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3d.jpg"  height = 200 width= 200  ></td>
+  </tr>      
+</table>
 
 
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3vv.jpg"/>
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3p.png"/>
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3v.png"/>
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3d.jpg"/>
 
 
 # JLC4
@@ -71,22 +71,18 @@ It contains:
 - 1x [FTDI programmer V2.0](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER)
 - 1x [FTDI programmer V2.1](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER)
 - 1x [sensor bar](https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar)
-
-### The board:
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j4441.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j4443.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC4_RoboChalangeBoards/blob/main/JLC4_Pictures/j441.png"  height = 250 width= 250  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC4_RoboChalangeBoards/blob/main/JLC4/JLC4_Pictures/j4441.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC4_RoboChalangeBoards/blob/main/JLC4/JLC4_Pictures/j4443.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC4_RoboChalangeBoards/blob/main/JLC4/JLC4_Pictures/j441.png"  height = 250 width= 250  ></td>
   </tr>      
 </table>
 
 
 
 
-
 # JLC5 - 2 layers
-
 ### It contains:
 - [EEPROM Programmer](https://github.com/Tonikiller10000/EEPROM_PROGRAMER);
 - [TPA3128D2_AudioAmplifier](https://github.com/Tonikiller10000/TPA3128D2_AudioAmplifier);
@@ -100,9 +96,9 @@ It contains:
 ### The board:
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/JLC5/blob/main/JLC5_Pictures/v51.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC5/blob/main/JLC5_Pictures/v52.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC5/blob/main/JLC5_Pictures/v53.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC5/blob/main/JLC5/JLC5_Pictures/v51.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC5/blob/main/JLC5/JLC5_Pictures/v52.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC5/blob/main/JLC5/JLC5_Pictures/v53.png" height = 250 width= 250  ></td>  
   </tr>      
 </table>
 
