@@ -24,9 +24,9 @@ Picture of the assembled boards:
 <img src="https://github.com/Tonikiller10000/JLC1/blob/main/JLC1_Pictures/JLC1s1.jpg"/>
 
 
+# JLC2
 
-
-### JLC2 Description:
+### Description:
 It has 4 layers and it contains:  
 - [Keystroke Injection Tool](https://github.com/Tonikiller10000/KeystrokeInjectionTool)
 - [USB Mass Storage Device](https://github.com/Tonikiller10000/USB-MassStorageDevice)
@@ -71,8 +71,7 @@ The board projection:
 - Board final result: https://github.com/Tonikiller10000/JLC3/blob/main/JLC3_Pictures/j3d.jpg
 
 
-
-
+# JLC4
 
 # JLC4_RoboChalangeBoards
 This is the forth order of boards from JLC PCB. It has all the boards for the competitions robots.
@@ -123,6 +122,19 @@ It contains:
 
 
 
+# JLC6 - PCBcoils
+
+### description:
+The board contains some pcb coils for teasting and research purposes.
+
+### The board:
+<table>
+  <tr>
+    <td><img src="" height = 250 width= 250  ></td>  
+    <td><img src="" height = 250 width= 250  ></td>  
+    <td><img src="" height = 250 width= 250  ></td>  
+  </tr>      
+</table>
 
 
 
