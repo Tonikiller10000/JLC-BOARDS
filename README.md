@@ -11,10 +11,10 @@ This is the first set of boards ordered for personal projects and it contains th
 - other side testing boards
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1p1.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1v3.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1R_F.jpg"  height = 250 width= 250  ></td>
-    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1s1.jpg"  height = 250 width= 250  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1p1.png" height = 200 width= 200  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1v3.png" height = 200 width= 200  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1R_F.jpg"  height = 200 width= 200  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1s1.jpg"  height = 200 width= 200  ></td>
   </tr>      
 </table>
 
@@ -29,12 +29,15 @@ It has 4 layers and it contains:
 - an board for testing some charging IC\`s
 - other side testing boards
 
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_4.png"/>
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_3.png"/>
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_1.jpg"/>
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_2.jpg"/>
 
-
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_4.png" height = 200 width= 200  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_3.png" height = 200 width= 200  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_1.jpg"  height = 200 width= 200  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_2.jpg"  height = 200 width= 200  ></td>
+  </tr>      
+</table>
 
 
 
