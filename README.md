@@ -1,5 +1,4 @@
 # JLC1
-
 ### Description:
 This is the first set of boards ordered for personal projects and it contains this modules:  
 - [Sensor Bar (used for the finefollower)](https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar)
@@ -10,22 +9,19 @@ This is the first set of boards ordered for personal projects and it contains th
 - [AT90USB162 microcontroller](https://github.com/Tonikiller10000/AT90USB162)
 - [EEPROM Programmer](https://github.com/Tonikiller10000/EEPROM_PROGRAMER)
 - other side testing boards
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1p1.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1v3.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1R_F.jpg"  height = 250 width= 250  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1s1.jpg"  height = 250 width= 250  ></td>
+  </tr>      
+</table>
 
-One of the Kicad projection versions:
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1p1.png"/>
 
-3d Viewed board:
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1v3.png"/>
-
-Picture of the arrived board:
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1R_F.jpg"/>
-
-Picture of the assembled boards:
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC1/JLC1_Pictures/JLC1s1.jpg"/>
 
 
 # JLC2
-
 ### Description:
 It has 4 layers and it contains:  
 - [Keystroke Injection Tool](https://github.com/Tonikiller10000/KeystrokeInjectionTool)
@@ -33,22 +29,18 @@ It has 4 layers and it contains:
 - an board for testing some charging IC\`s
 - other side testing boards
 
-
-The board projection:
-
 <img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_4.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_3.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_1.jpg"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2/JLC2_Pictures/J2_2.jpg"/>
 
-Board 3D view:
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2_Pictures/J2_3.png"/>
 
-Board views:
-- Sides: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2_Pictures/J2_1.jpg
-- Close: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC2_Pictures/J2_2.jpg
+
+
 
 
 
 # JLC3
-
 ### Description:
 This is the third set of boards ordered for personal projects and contains:  
 - [LineFollower_V4.0](https://github.com/Tonikiller10000/LineFollower)
@@ -56,23 +48,14 @@ This is the third set of boards ordered for personal projects and contains:
 - [8BitProcessor_DisplayRegister](https://github.com/Tonikiller10000/8BitProcessor/tree/main/DisplayRegister)
 - [8BitProcessor_ClkModule](https://github.com/Tonikiller10000/8BitProcessor/tree/main/ClkPulseGenerator)
 
-Board 3D view:
 
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3vv.jpg"/>
-
-
-The board projection:
-
-<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3p.png"/>
-
-
-
-- Another 3D view of the board: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3v.png
-- Board final result: https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3_Pictures/j3d.jpg
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3vv.jpg"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3p.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3v.png"/>
+<img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC3/JLC3_Pictures/j3d.jpg"/>
 
 
 # JLC4
-
 # JLC4_RoboChalangeBoards
 This is the forth order of boards from JLC PCB. It has all the boards for the competitions robots.
 It contains:
