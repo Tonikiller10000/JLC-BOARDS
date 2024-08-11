@@ -73,12 +73,11 @@ It contains:
 - 1x [sensor bar](https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar)
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC4_RoboChalangeBoards/blob/main/JLC4/JLC4_Pictures/j4441.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC4_RoboChalangeBoards/blob/main/JLC4/JLC4_Pictures/j4443.png" height = 250 width= 250  ></td>  
-    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/JLC4_RoboChalangeBoards/blob/main/JLC4/JLC4_Pictures/j441.png"  height = 250 width= 250  ></td>
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC4_RoboChalangeBoards/JLC4_RoboChalangeBoards/JLC4_Pictures/j4441.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC4_RoboChalangeBoards/JLC4_RoboChalangeBoards/JLC4_Pictures/j4443.png" height = 250 width= 250  ></td>  
+    <td><img src="https://github.com/Tonikiller10000/JLC-BOARDS/blob/main/JLC4_RoboChalangeBoards/JLC4_RoboChalangeBoards/JLC4_Pictures/j441.png"  height = 250 width= 250  ></td>
   </tr>      
 </table>
-
 
 
 
